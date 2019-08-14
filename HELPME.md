@@ -46,5 +46,3 @@ select * from users where name=#{dog} <!-- 让这里正确获得参数name -->
     vscode F1
     输入 `export`
     输入 markdown to PDF
-
-### Test
